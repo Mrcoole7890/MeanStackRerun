@@ -30,4 +30,13 @@ Plan: Webchat using mean stack
     -4  Write index.Jade
 
     Hopfully this is all I need to do...
+
+(Update 6/27/2021 1:09 AM)
+    I am pretty tired and after doing a tiny bit of research it seems that
+    using mongoDB in a Webchat application will be a shoehorned effort (Prepare for logic errors...).
+    Additionlly, the video tutorial I am watching (an hour long, detailing a webchat application)
+    has dedicated half of the video to explaining setting up Angular. I would be best suited to
+    NOT grind this project in one sitting and take my time researching Angular and mongoDB.
+    I would like to get back to this project tommarow. Tonight I would like to contiue binging
+    tutorials.
 */
